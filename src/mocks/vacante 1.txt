@@ -1,0 +1,26 @@
+About the job
+Eviden, part of the Atos Group, with an annual revenue of circa € 5 billion is a global leader in data-driven, trusted and sustainable digital transformation. As a next generation digital business with worldwide leading positions in digital, cloud, data, advanced computing and security, it brings deep expertise for all industries in more than 47 countries. By uniting unique high-end technologies across the full digital continuum with 53,000 world-class talents, Eviden expands the possibilities of data and technology, now and for generations to come.
+
+Golang Full Stack Developer
+
+Required Skillset (with At Least 2-3 Yrs.)
+
+ Golang Development
+ APIs development
+ Front end framework especially React
+ Cloud Technology
+ Cloud DB preferably MongoDB Atlas
+ Golang Development o Concurrency o Unit Testing o Profiling/Benchmarking o Dependency Management
+ Google Cloud Platform (Any other Cloud platform is also fine) o GKE o BigQuery
+
+
+Preferred But Not Mandatory Skillset
+
+ DevOps/SRE o Ansible o Bash Scripting o Concourse CI o Github/GitOps o Jenkins o Prometheus/AlertManager o Grafana o PagerDuty
+
+
+Location living in Mexico country
+
+Language conversational English
+
+Let’s grow together.

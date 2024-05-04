@@ -1,0 +1,210 @@
+{
+  "response": [
+      {
+          "filename": "Profile (1).pdf",
+          "name": "Roberto Peacastro Ortega",
+          "contact_info": "LinkedIn: wwwlinkedincomin robertopenacastroortega",
+          "technical_skills": [
+              "Google Analytics",
+              "SEO",
+              "SEM",
+              "Ads",
+              "Google Ads Search"
+          ],
+          "experience": [
+              {
+                  "job_title": "Chief Executive Officer",
+                  "company": "Leadsales",
+                  "tenure": "4 years, 1 month",
+                  "technologies_used": []
+              },
+              {
+                  "job_title": "Account Manager",
+                  "company": "Google",
+                  "tenure": "2 years, 7 months",
+                  "technologies_used": [
+                      "Google Ads Search",
+                      "Google Tag Manager",
+                      "Google Analytics"
+                  ]
+              }
+          ],
+          "compatibility": 23
+      },
+      {
+          "filename": "Profile.pdf",
+          "name": "Yasir Shah",
+          "contact_info": "LinkedIn: wwwlinkedincominyasirshah93",
+          "technical_skills": [
+              "Nodejs",
+              "Python",
+              "angulajs",
+              "ReactJS",
+              "Python",
+              "Javascript"
+          ],
+          "experience": [
+              {
+                  "job_title": "Technical Lead",
+                  "company": "eZhire",
+                  "tenure": "3 years, 5 months",
+                  "technologies_used": [
+                      "React",
+                      "Django",
+                      "Nodejs",
+                      "Express"
+                  ]
+              },
+              {
+                  "job_title": "Frontend Developer",
+                  "company": "Amid Tech",
+                  "tenure": "1 year, 6 months",
+                  "technologies_used": [
+                      "Ionic",
+                      "HTML",
+                      "CSS",
+                      "Bootstrap",
+                      "jQuery",
+                      "JavaScript"
+                  ]
+              }
+          ],
+          "compatibility": 27
+      },
+      {
+          "filename": "Lizbeth-Zatarain-CV.pdf",
+          "name": "Lizbeth Janett Zatarain Loaiza",
+          "contact_info": "",
+          "technical_skills": [],
+          "experience": [
+              {
+                  "job_title": "Junior Underwriter",
+                  "company": "Across America Insurance Services",
+                  "tenure": "Not Specified",
+                  "technologies_used": []
+              },
+              {
+                  "job_title": "Customer Service",
+                  "company": "Vox Centrix Call Center",
+                  "tenure": "7 months",
+                  "technologies_used": []
+              }
+          ],
+          "compatibility": 6
+      },
+      {
+          "filename": "CV - EN Kotlin Mobile Engineer.pdf",
+          "name": "Jesus Daniel Medina Cruz",
+          "contact_info": "jesusdanielmedinacruzgmailcom",
+          "technical_skills": [
+              "Kotlin",
+              "React",
+              "Nodejs",
+              "AWS"
+          ],
+          "experience": [
+              {
+                  "job_title": "Software Engineer",
+                  "company": "The Beek",
+                  "tenure": "1 year, 1 month",
+                  "technologies_used": [
+                      "React",
+                      "Node JS",
+                      "Express"
+                  ]
+              },
+              {
+                  "job_title": "Frontend Developer",
+                  "company": "ProconstApp",
+                  "tenure": "5 months",
+                  "technologies_used": [
+                      "React",
+                      "Typescript",
+                      "AWS Cognito"
+                  ]
+              }
+          ],
+          "compatibility": 38
+      },
+      {
+          "filename": "Julio Santacruz - Web Developer - CV .pdf",
+          "name": "Julio Santacruz",
+          "contact_info": "juliosantacruzhgmailcom",
+          "technical_skills": [
+              "Typescript",
+              "Angular 8",
+              "Javascript",
+              "ReactJS"
+          ],
+          "experience": [
+              {
+                  "job_title": "Fullstack Developer",
+                  "company": "ITHub Consulting Services",
+                  "tenure": "4 years",
+                  "technologies_used": [
+                      "Angular 8",
+                      "ReactJs",
+                      "Node JS",
+                      "Python",
+                      "C",
+                      "KendoUI",
+                      "XML",
+                      "Soap",
+                      "Rest"
+                  ]
+              },
+              {
+                  "job_title": "Fullstack Web  Android Developer",
+                  "company": "SIIES",
+                  "tenure": "8 months",
+                  "technologies_used": [
+                      "Angular 8",
+                      "ReactJs",
+                      "Node JS",
+                      "Java"
+                  ]
+              }
+          ],
+          "compatibility": 45
+      },
+      {
+          "filename": "AsaelAmaroCV_ES.pdf.pdf",
+          "name": "Martin Amaro",
+          "contact_info": "maag070208@gmail.com",
+          "technical_skills": [
+              "Angular 8",
+              "Mysql",
+              "Node JS",
+              "Python",
+              "C",
+              "Node Js"
+          ],
+          "experience": [
+              {
+                  "job_title": "Fullstack Developer",
+                  "company": "ITHub Consulting Services",
+                  "tenure": "4 years",
+                  "technologies_used": [
+                      "Angular 8",
+                      "ReactJs",
+                      "Node JS",
+                      "Python",
+                      "C",
+                      "Node Js"
+                  ]
+              },
+              {
+                  "job_title": "Fullstack Web  Android Developer",
+                  "company": "SIIES",
+                  "tenure": "8 months",
+                  "technologies_used": [
+                      "Angular 8",
+                      "Java",
+                      "Node JS"
+                  ]
+              }
+          ],
+          "compatibility": 35
+      }
+  ]
+}
