@@ -1,0 +1,30 @@
+.positionCard{
+  width: 100%;
+max-width: 500px;
+  height: 100%;
+
+  padding: 15px;
+
+  background: var(--BgAcentColor);
+  box-shadow: var(--shadowBox);
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  cursor: pointer;
+
+  .cardRow{
+    display: flex;
+    flex-direction: column;
+
+    .label{
+      font-size: 14px;
+    }
+    .data{
+      font-size: 20px;
+    }
+  }
+
+}

@@ -1,0 +1,33 @@
+.btnNavbar{
+  width: 185px;
+  height: 45px;
+  border-radius: 10px;
+  box-shadow: var(--shadowBox);
+
+  display: flex;
+  align-items: center;
+  color: var(--TextPrimaryColor);
+
+  font-size: 14px;
+  letter-spacing: .2px;
+
+  padding-left: 15px;
+  gap: 10px;
+}
+
+.active{
+  color: var(--TextAcentColor);
+  background-color: var(--BtnNavbarColor);
+  font-weight: bold;
+  box-shadow: var(--shadowBoxActive);
+
+
+  .icon{
+    .navIcon{
+      path{
+        stroke: var(--TextAcentColor);
+        stroke-width: 2px;
+      }
+    }
+  }
+}

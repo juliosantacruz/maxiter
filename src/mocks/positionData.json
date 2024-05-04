@@ -1,0 +1,70 @@
+{
+  "job_position": {
+    "title": "Desarrollador Test",
+    "job_description": "super lorem laksjdflkajsdf laskdjf;laksdjf asdlkjslkdfjlksdjf lskjdflkajsdf oaisdjlwkemlskjdlfkajsdlfkjalsdkjflaskdjf sldkfjalskdjflkjas laksdjflkjalkjasdiwldnf",
+    "status": "Abierto",
+    "conclution":"asdfasdfasdf",
+    "candidate_data": [
+      {
+        "id": "1",
+        "name": "full name",
+        "email": "test@test.com",
+        "phone": "6641234568",
+        "score": 85,
+        "hardskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "softskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "summary": "lorem ipsium lkajsdfkj asldkfjlasidjf,kajv lkajsdflkjowiejlknsd sldkfjal sdkfjalsdkjf slkjvlkjsdfiuoqiwer slkjv,smnsdklskdjf slaksjdflkjasldkjf asdfasdf"
+      },
+      {
+        "id": "2",
+        "name": "full name",
+        "email": "test@test.com",
+        "phone": "6641234568",
+        "score": 85,
+        "hardskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "softskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "summary": "lorem ipsium lkajsdfkj asldkfjlasidjf,kajv lkajsdflkjowiejlknsd sldkfjal sdkfjalsdkjf slkjvlkjsdfiuoqiwer slkjv,smnsdklskdjf slaksjdflkjasldkjf asdfasdf"
+      },
+      {
+        "id": "3",
+        "name": "full name",
+        "email": "test@test.com",
+        "phone": "6641234568",
+        "score": 85,
+        "hardskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "softskills": [
+          "uno",
+          "dos",
+          "tres",
+          "cuatro"
+        ],
+        "summary": "lorem ipsium lkajsdfkj asldkfjlasidjf,kajv lkajsdflkjowiejlknsd sldkfjal sdkfjalsdkjf slkjvlkjsdfiuoqiwer slkjv,smnsdklskdjf slaksjdflkjasldkjf asdfasdf"
+      }
+    ]
+  }
+}

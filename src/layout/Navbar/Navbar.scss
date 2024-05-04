@@ -1,0 +1,41 @@
+.asideNavbar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: var(--NavbarWidth);
+
+  padding: 0;
+}
+
+.navLink {
+  .icon {
+    margin-left: 12px;
+    margin-right: 6px;
+
+    .navIcon {
+      path {
+        // stroke: var(--TextPrimaryColor);
+        // stroke-width: 2px;
+      }
+    }
+  }
+
+  :not(.active):hover {
+    background-color: var(--BtnNavbarHoverColor);
+    color: var(--TextAcentColor);
+
+    .navIcon {
+      path {
+        stroke: var(--TextAcentColor);
+        // stroke-width: 2px;
+      }
+    }
+  }
+}
+
+nav {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

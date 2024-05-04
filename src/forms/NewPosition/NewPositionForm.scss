@@ -1,0 +1,59 @@
+.leForm {
+  background-color: white;
+  border-radius: 20px;
+  width: 400px;
+
+  padding: 30px;
+
+  h3 {
+    margin-bottom: 20px;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .inputRow {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    input {
+      height: 25px;
+      border-radius: 5px;
+      border: none;
+      background-color: rgb(70, 70, 70);
+      padding-left: 8px;
+    }
+    textarea {
+      height: 250px;
+      border-radius: 5px;
+      border: none;
+      background-color: rgb(70, 70, 70);
+      padding-left: 8px;
+      padding-top: 8px;
+    }
+  }
+  .dragResume{
+    border: 2px dashed rgb(70, 70, 70);
+    border-radius: 5px;
+
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .fileName{
+    font-size: 10px;
+  }
+  .submitBtn{
+    background-color: rgb(40, 255, 40);
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+
+    cursor: pointer;
+  }
+}

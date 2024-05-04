@@ -1,0 +1,81 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light dark;
+  --margin-top: 10px;
+  // project styles
+  --BgColor:#fafafa;
+  --BgAcentColor:#fff;
+  --BgFormColor:#4775e8ab;
+
+  --TextPrimaryColor:#3f3f46;
+  --TextSecondaryColor:#fff;
+  --TextAcentColor:#fff;
+
+  --BtnPrimaryColor:#475be8;
+  --BtnWorkspaceColor:#fff;
+  --BtnDeleteColor:#d80000;
+  --BtnEditColor:#0eb400;
+  --BtnSaveColor:#34ba31;
+
+  --TalbeRowColor:#c7c7c7;
+  --TitleRowColor:#969696;
+
+  --shadowBox: 0 0 6px 0 var(--TextPrimaryColor);
+  --shadowBoxActive:0px 5px 10px 0px var(--TextPrimaryColor);
+
+  // navbar colors
+  --BtnNavbarColor:#475be8;
+  --BtnNavbarHoverColor:#868686;
+
+  // layout dimensions
+
+  --NavbarWidth:210px;
+  --NavbarHeight:100vh;
+  --MainWidth: calc(100vw - var(--NavbarWidth));
+  --MainHeight:100vh;
+
+
+
+
+}
+
+// @media (prefers-color-scheme: light) {
+//   :root {
+//     color: #213547;
+//     background-color: #ffffff;
+//   }
+//   a:hover {
+//     color: #747bff;
+//   }
+//   button {
+//     background-color: #f9f9f9;
+//   }
+// }
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--BgColor);
+
+  color: var(--TextPrimaryColor);
+}
+
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: var(--TextPrimaryColor);
+
+}
+h1,h2,h3,h4,p{
+  color: var(--TextPrimaryColor);
+  margin: 0;
+}
+#root{
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
