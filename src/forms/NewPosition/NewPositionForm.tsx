@@ -30,7 +30,6 @@ export default function NewPositionForm() {
 
   const setFileTxt =(e:any)=>{
     const file = e?.target.files[0];
-    // console.log(file[0])
     setFile(file)
   }
 
